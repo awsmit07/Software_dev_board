@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name _Libraries)(type Legacy)(uri /home/andy/Workspace/PCB/software_dev_board/libraries/MBRM110LT1G.lib)(options "")(descr ""))
+  (lib (name solar_lib)(type Legacy)(uri ${KIPRJMOD}/libraries/solar_lib.lib)(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX13054ASA+T
+F https://datasheets.maximintegrated.com/en/ds/MAX13050-MAX13054.pdf
+$ENDCMP
+#
+$CMP XBP15SRV05W-G
+F https://www.torexsemi.com/file/xbp15srv05w/XBP15SRV05W.pdf
+$ENDCMP
+#
+#End Doc Library
